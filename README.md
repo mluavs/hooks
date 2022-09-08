@@ -9,4 +9,4 @@ Tá, a gente já tinha visto como criar projetos no React a partir do Vite (muit
 * usando hooks do React
 * trabalhando com um sistema de buscas e de filtragem
 
-Fora que é uma oportunidade de lembrar disso aqui repetidas vezes: "componente é uma função JavaScript que retorna um HTML, não pode esquecer de exportar e precisa lembrar de importar no App.jsx
+Fora que é uma oportunidade de lembrar disso aqui repetidas vezes: "componente é uma função JavaScript que retorna um HTML, não pode esquecer de exportar e precisa lembrar de importar no App.jsx"
